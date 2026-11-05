@@ -21,6 +21,7 @@ source = "https://github.com/sonoFrangu/CustomHUD-Horizon"
 icon = "icons/customhud.png"
 categories = ["utility"]
 tags = ["day-counter", "clock", "hud", "day-night", "moon-phase", "port"]
+screenshots = ["screenshots/customhud/1.png", "screenshots/customhud/2.png", "screenshots/customhud/3.png", "screenshots/customhud/4.png", "screenshots/customhud/5.png"]
 
 [[versions]]
 version = "1.6.0"
